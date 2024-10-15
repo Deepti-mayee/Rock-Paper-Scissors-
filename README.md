@@ -27,7 +27,7 @@ To run the game locally:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Rock-Paper-Scissors
+   cd Rock-Paper-Scissors-
    ```
 3. Open `index.html` in your web browser to start playing.
 
